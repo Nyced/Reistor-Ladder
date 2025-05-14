@@ -62,7 +62,7 @@ print()
 print()
 print("Pairs:")
 
-#Voltage drop and current for pairs
+# Voltage drop and current for pairs
 for count in range(len(pair_resistance)):
     resistor = pair_resistance[count]
     name = pair_names[count]
