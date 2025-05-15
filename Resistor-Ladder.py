@@ -11,7 +11,7 @@ else:
     pulldown = float(pulldown)
 
 resistors = []
-count = 0
+count = 1
 
 print()
 
